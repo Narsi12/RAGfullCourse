@@ -1,0 +1,9 @@
+A
+    LangChain Document Loaders are components used to load data from different sources into a standard document format that LangChain can process. A document generally contains the actual text along with metadata such as the file name, source, page number, or document type.
+
+Document loaders can load information from sources such as PDF files, text files, Word documents, web pages, CSV files, and other data sources. After loading the data, the documents can be passed to text splitters, embedding models, and vector databases as part of a RAG pipeline.
+
+The main purpose of a Document Loader is to convert external data into LangChain Document objects so that the data can be processed consistently.
+
+
+    
