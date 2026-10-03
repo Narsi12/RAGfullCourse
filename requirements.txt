@@ -12,3 +12,4 @@ ipykernel
 pymupdf
 docx2txt
 unstructured[docx]
+matplotlib
